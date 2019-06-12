@@ -1,0 +1,44 @@
+# Site settings
+title: 야오이나라
+description: "bl의 모든것"
+url: "https://yaoinara.com"
+author:
+  name: "Master"
+  email: "master@yaoinara.com"
+  url: "https://yaoinara.com"
+
+# Build settings
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source:
+destination: /_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
+
+# 블로그 disqus shortname
+disqus:
+  shortname: yaoinara
