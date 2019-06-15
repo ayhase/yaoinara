@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VIVA NEW WORLD
-date: 2019-06-01 12:01
+date: 2019-06-01 12:01:00 +09:00
 author: yaoinara
 permalink: /VIVA-NEW-WORLD/
 image:
