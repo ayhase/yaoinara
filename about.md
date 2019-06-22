@@ -10,7 +10,7 @@ introduce me
 성공하면 다시 돌아올게요
 
 
-![Emerald](img/aaa.jpg "sum")
+![Emerald](img/Emerald01.png "Emerald")
 
 ### to be continued...
 
