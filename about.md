@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About yaoinara
+title: 접근금지 
 ---
 ## SJ
 introduce me
@@ -15,4 +15,4 @@ introduce me
 ### to be continued...
 
 주제 설정이 잘못되었다는 생각을 했습니다.
-정말 제가 관심있는 분야로 도전하겠습니다. 
+정말 제가 관심있는 분야로 도전하겠습니다.
