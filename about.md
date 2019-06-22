@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 접근금지 
+title: 접근금지
 ---
 ## SJ
 introduce me
@@ -10,7 +10,7 @@ introduce me
 성공하면 다시 돌아올게요
 
 
-![Emerald](img/Emerald01.png "Emerald")
+![Emerald](img/aaa.jpg "sum")
 
 ### to be continued...
 
